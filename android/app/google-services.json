@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "635906574217",
+    "firebase_url": "https://chat-system-439e2-default-rtdb.firebaseio.com",
+    "project_id": "chat-system-439e2",
+    "storage_bucket": "chat-system-439e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635906574217:android:21aae1ecaa003d2ca54358",
+        "android_client_info": {
+          "package_name": "com.restinga.ifrs.chat.br"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEA_L-QNiFtrT_HVTeTk74M0o718J7zuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
